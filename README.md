@@ -16,3 +16,4 @@
 
 ###效果图
 
+![](https://github.com/hekangcode/ImageBlur/blob/master/app/src/main/res/drawable/ddd.png)
